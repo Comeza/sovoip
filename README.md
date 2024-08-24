@@ -5,7 +5,7 @@ Example Usage
 ```
 go build
 
-sovoip -user <username> -pw <password> -terminal <terminal_id> -target <TargetTel>
+sovoip -user torsten -pw "mypassword" -terminal torsten_festnetz -target "#11"
 ```
 
 ### Options
